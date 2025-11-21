@@ -12,7 +12,7 @@ Dicho proyecto se ha realizado con Google Sheets y se puede encontrar en el sigu
  (https://docs.google.com/spreadsheets/d/1AIdsUV90F1OcAYttzWPQZBDYxMNBqfo09Fsnz17dO4M/edit?usp=sharing)
 
 # 📮 1. Fuente de datos
-👾 Los datos con los que he trabajado provienen de un Dataset público en Kaggle, cuyo enlace es el siguiente:
+👾 Los datos con los que se ha realizado el proyecto provienen de un Dataset público en Kaggle, cuyo enlace es el siguiente:
 
  https://www.kaggle.com/datasets/vivovinco/gym-membership-renewal
 
