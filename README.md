@@ -1,4 +1,4 @@
-# Proyecto renovación membresía gym
+# Proyecto renovación membresía gym 🏋️‍♀️
 📈 Proyecto 1: Dashboard &amp; Análisis de datos con Google Sheets
 
 
@@ -11,12 +11,12 @@ Dicho proyecto se ha realizado con Google Sheets y se puede encontrar en el sigu
 
  (https://docs.google.com/spreadsheets/d/1AIdsUV90F1OcAYttzWPQZBDYxMNBqfo09Fsnz17dO4M/edit?usp=sharing)
 
-# 📮 1. Fuente de datos
+# 💻 1. Fuente de datos
 👾 Los datos con los que se ha realizado el proyecto provienen de un Dataset público en Kaggle, cuyo enlace es el siguiente:
 
  https://www.kaggle.com/datasets/vivovinco/gym-membership-renewal
 
-# 💻 2. Estructura del repositorio
+# 🗂️ 2. Estructura del repositorio
 Los archivos que contiene este repositotio son los siguientes:
 
 |--> Data #Datos
