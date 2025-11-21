@@ -50,4 +50,4 @@ Los archivos que contiene este repositotio son los siguientes:
 
 Proyecto realizado por Lorena López Arenas
 
-Proyecto 1: Dashboard &amp; Análisis de datos con Google Sheets
+
